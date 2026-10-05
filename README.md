@@ -1,4 +1,4 @@
-# High-School-3-grade-BCI-project-V1
+# High_School_3_grade_BCI_project_V1
 goku image conversion
 
 # Goku BCI
