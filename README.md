@@ -1,6 +1,6 @@
 # High_School_3_grade_BCI_project_V1
 goku image conversion
-
+carried out at ~ 2025/05/25 
 # Goku BCI
 
 EEG Attention 데이터를 이용해 집중도에 따라
