@@ -29,7 +29,7 @@ Attention 값(0~100)을 정규화한 뒤,
 4개의 Goku 이미지 사이를 선형 보간(Linear Interpolation)하여
 집중도 변화에 따라 화면이 부드럽게 전환되도록 구현했다.
 
-#description
+## Main Concept_description
 
 ### 1. Real-time EEG Visualization
 
